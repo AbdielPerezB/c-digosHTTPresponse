@@ -1,0 +1,210 @@
+[
+  {
+    "passangerid": 2,
+    "survived": 1,
+    "pclass": 1,
+    "name": "Cumings, Mrs. John Bradley (Florence Briggs Thayer)",
+    "sex": "female",
+    "age": 38
+  },
+  {
+    "passangerid": 3,
+    "survived": 1,
+    "pclass": 3,
+    "name": "Heikkinen, Miss. Laina",
+    "sex": "female",
+    "age": 26
+  },
+  {
+    "passangerid": 4,
+    "survived": 1,
+    "pclass": 1,
+    "name": "Futrelle, Mrs. Jacques Heath (Lily May Peel)",
+    "sex": "female",
+    "age": 35
+  },
+  {
+    "passangerid": 5,
+    "survived": 0,
+    "pclass": 3,
+    "name": "Allen, Mr. William Henry",
+    "sex": "male",
+    "age": 35
+  },
+  {
+    "passangerid": 6,
+    "survived": 0,
+    "pclass": 3,
+    "name": "Moran, Mr. James",
+    "sex": "male",
+    "age": 0
+  },
+  {
+    "passangerid": 7,
+    "survived": 0,
+    "pclass": 3,
+    "name": "Abdiel Jonathan",
+    "sex": "male",
+    "age": 22
+  },
+  {
+    "passangerid": 8,
+    "survived": 0,
+    "pclass": 3,
+    "name": "Palsson, Master. Gosta Leonard",
+    "sex": "male",
+    "age": 2
+  },
+  {
+    "passangerid": 9,
+    "survived": 1,
+    "pclass": 3,
+    "name": "Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",
+    "sex": "female",
+    "age": 27
+  },
+  {
+    "passangerid": 10,
+    "survived": 1,
+    "pclass": 2,
+    "name": "Nasser, Mrs. Nicholas (Adele Achem)",
+    "sex": "female",
+    "age": 14
+  },
+  {
+    "passangerid": 11,
+    "survived": 1,
+    "pclass": 3,
+    "name": "Sandstrom, Miss. Marguerite Rut",
+    "sex": "female",
+    "age": 4
+  },
+  {
+    "passangerid": 12,
+    "survived": 1,
+    "pclass": 1,
+    "name": "Bonnell, Miss. Elizabeth",
+    "sex": "female",
+    "age": 58
+  },
+  {
+    "passangerid": 13,
+    "survived": 0,
+    "pclass": 3,
+    "name": "Saundercock, Mr. William Henry",
+    "sex": "male",
+    "age": 20
+  },
+  {
+    "passangerid": 14,
+    "survived": 0,
+    "pclass": 3,
+    "name": "Andersson, Mr. Anders Johan",
+    "sex": "male",
+    "age": 39
+  },
+  {
+    "passangerid": 15,
+    "survived": 0,
+    "pclass": 3,
+    "name": "Vestrom, Miss. Hulda Amanda Adolfina",
+    "sex": "female",
+    "age": 14
+  },
+  {
+    "passangerid": 16,
+    "survived": 1,
+    "pclass": 2,
+    "name": "Hewlett, Mrs. (Mary D Kingcome)",
+    "sex": "female",
+    "age": 55
+  },
+  {
+    "passangerid": 17,
+    "survived": 0,
+    "pclass": 3,
+    "name": "Rice, Master. Eugene",
+    "sex": "male",
+    "age": 2
+  },
+  {
+    "passangerid": 18,
+    "survived": 1,
+    "pclass": 2,
+    "name": "Williams, Mr. Charles Eugene",
+    "sex": "male",
+    "age": 0
+  },
+  {
+    "passangerid": 19,
+    "survived": 0,
+    "pclass": 3,
+    "name": "Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",
+    "sex": "female",
+    "age": 31
+  },
+  {
+    "passangerid": 20,
+    "survived": 1,
+    "pclass": 3,
+    "name": "Masselmani, Mrs. Fatima",
+    "sex": "female",
+    "age": 0
+  },
+  {
+    "passangerid": 21,
+    "survived": 0,
+    "pclass": 2,
+    "name": "Fynney, Mr. Joseph J",
+    "sex": "male",
+    "age": 35
+  },
+  {
+    "passangerid": 22,
+    "survived": 1,
+    "pclass": 2,
+    "name": "Beesley, Mr. Lawrence",
+    "sex": "male",
+    "age": 34
+  },
+  {
+    "passangerid": 23,
+    "survived": 1,
+    "pclass": 3,
+    "name": "McGowan, Miss. Anna \"Annie\"",
+    "sex": "female",
+    "age": 15
+  },
+  {
+    "passangerid": 26,
+    "survived": 0,
+    "pclass": 3,
+    "name": "Abdiel Jonathan",
+    "sex": "male",
+    "age": 22
+  },
+  {
+    "passangerid": 27,
+    "survived": 0,
+    "pclass": 3,
+    "name": "Abdiel Jonathan",
+    "sex": "male",
+    "age": 22
+  },
+  {
+    "passangerid": 25,
+    "survived": 0,
+    "pclass": 3,
+    "name": "Abdiel Jonathan",
+    "sex": "male",
+    "age": 22
+  },
+  {
+    "passangerid": 1,
+    "survived": 0,
+    "pclass": 3,
+    "name": "Abdiel Jonathan",
+    "sex": "male",
+    "age": 22
+  }
+]
